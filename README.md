@@ -1,4 +1,4 @@
-# Differntial-Geometry-Calculator
+# Differential-Geometry-Calculator
 This repository contains two Jupyter notebooks that use Sympy to compute fundamental forms, Christoffel symbols, curvatures, and related differential-geometric quantities for surfaces defined by parametric immersions:
 
 1) CalculatesEverything.ipynb: Computes the first and second fundamental forms, Christoffel symbols, Gaussian curvature, and mean curvature for parametric immersions (currently illustrated by the standard parametrization of the sphere).
